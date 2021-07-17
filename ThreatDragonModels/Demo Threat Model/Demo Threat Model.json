@@ -5,8 +5,18 @@
     "description": "Cool Demo Model"
   },
   "detail": {
-    "contributors": [],
-    "diagrams": [],
+    "contributors": [
+      {
+        "name": "My friends"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "Cool One",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
     "reviewer": "Viewers"
   }
 }
